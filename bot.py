@@ -42,4 +42,4 @@ async def on_message(message):
 
 
 
-client.run("MTE1ODA1MjY3MjMzMTU5NTg5Ng.G2iLRl.31dKvN3a6gijocbLDRtQpiJ4Zj1nZaiIv9LH6o")
+client.run("tu codigo de bot")
